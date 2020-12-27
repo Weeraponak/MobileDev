@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4510e49-1961-4d0a-84f0-866c155cf079" name="Default Changelist" comment="" />
+    <list default="true" id="d4510e49-1961-4d0a-84f0-866c155cf079" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MobileDev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MobileDev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/OpenSSL-Win64" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -45,14 +48,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606317307930" />
-    <state x="114" y="121" width="1200" height="800" key="AVDManager" timestamp="1607868874652">
+    <state x="114" y="121" width="1200" height="800" key="AVDManager" timestamp="1609068489190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="114" y="121" width="1200" height="800" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1607868874652" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606317194144">
+    <state x="114" y="121" width="1200" height="800" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1609068489190" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608962327415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606317194144" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608962327415" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1607868805167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

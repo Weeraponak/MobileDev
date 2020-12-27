@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Termmai_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Termmai_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/layoutsapp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/layoutsapp/build" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/.pub" />
