@@ -1,0 +1,4 @@
+#Tue Nov 24 18:27:54 ICT 2020
+base.0=C\:\\Users\\OLARNLAPTOP00\\Desktop\\myapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
